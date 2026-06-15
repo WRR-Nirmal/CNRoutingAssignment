@@ -49,6 +49,8 @@ Dynamic routing using EIGRP:
 All configurations were tested to ensure successful communication between devices and networks. Verification was performed using:
 
 ■ Ping tests between devices
+
 ■ Routing table inspection using router commands
+
 ■ End-to-end connectivity checks
 
